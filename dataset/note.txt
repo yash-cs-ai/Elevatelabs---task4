@@ -1,0 +1,1 @@
+data cleaning was performed in car_prices.csv and only columns relevant to business were kept in. Check new_data_format.png for the columns used.
